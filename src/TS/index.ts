@@ -1,2 +1,2 @@
 import * as _ from 'lodash';
-console.log("fuck");
+console.log("Oh yea babe!");

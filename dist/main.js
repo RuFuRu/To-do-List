@@ -21,7 +21,7 @@ var __webpack_exports__ = {};
   !*** ./src/TS/index.ts ***!
   \*************************/
 __webpack_require__.r(__webpack_exports__);
-console.log("fuck");
+console.log("Oh yea babe!");
 
 
 /******/ })()
