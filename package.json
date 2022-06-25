@@ -55,6 +55,9 @@
   "devDependencies": {
     "@types/lodash": "^4.14.182",
     "css-loader": "^6.7.1",
+    "file-loader": "^6.2.0",
+    "html-loader": "^3.1.2",
+    "install": "^0.13.0",
     "lodash": "^4.17.21",
     "sass": "^1.52.3",
     "sass-loader": "^13.0.0",
