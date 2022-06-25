@@ -1,2 +1,8 @@
-$headerColour: hsl(0, 90%, 33%);
+//colours
+$headerColour: hsl(256, 100%, 14%); //hsl(0, 90%, 33%);
 $headerFontColour: hsl(0, 0%, 92%);
+$asideColour: hsl(204, 50%, 96%);
+$footerColour: hsl(0, 12%, 93%);
+
+//box shadows
+$defaultBoxShadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
