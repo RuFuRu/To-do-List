@@ -1,8 +1,11 @@
 //colours
-$headerColour: hsl(256, 100%, 14%); //hsl(0, 90%, 33%);
+$headerColour: hsl(244, 55%, 41%);
 $headerFontColour: hsl(0, 0%, 92%);
 $asideColour: hsl(204, 50%, 96%);
 $footerColour: hsl(0, 12%, 93%);
+$todoCardColour: hsl(0, 0%, 99%);
+$paraColour: hsl(0deg, 1%, 39%);
 
 //box shadows
 $defaultBoxShadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+$todoCardBoxShadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;//rgba(0, 0, 0, 0.1) 0px 4px 12px;
