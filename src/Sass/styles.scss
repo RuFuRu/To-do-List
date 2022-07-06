@@ -32,11 +32,20 @@ aside {
         margin-bottom: 1rem;
     }
     ul {
-        margin-top: 1rem;
+        margin-top: 5rem;
         font-weight: 400;
         font-style: italic;
         list-style-type: none;
-        margin-left: 2.8rem;
+        text-align: center;
+    }
+    .todo-folder-title {
+        font-size: 1.5rem;
+        font-family: 'Lato';
+        font-weight: 700;
+    }
+    .within-todo-folder {
+        margin-top: 0.8rem;
+        text-align: center;
     }
 }
 
