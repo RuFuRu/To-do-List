@@ -19,6 +19,7 @@ popupOverlay.addEventListener('click', hidePopUp);
 
 function hidePopUp() {
     popup.classList.remove('active');
+    popup.textContent = '';
     popupOverlay.classList.remove('active');
 }
 
