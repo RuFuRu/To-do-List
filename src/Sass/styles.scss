@@ -31,6 +31,9 @@ aside {
     .change-lang {
         margin-bottom: 1rem;
     }
+    .add-folder {
+        margin-bottom: 1rem;
+    }
     ul {
         margin-top: 5rem;
         font-weight: 400;
@@ -40,13 +43,20 @@ aside {
     }
     .todo-folder-title {
         font-size: 1.5rem;
-        font-family: 'Lato';
         font-weight: 700;
+        font-family: 'Montserrat';
+        font-style: normal;
+        color: $headerColour;
+        padding: 0.7rem;
+        background-color: $todoFolderColour;
+        border-radius: 50px;
     }
-    .within-todo-folder {
+    /*.within-todo-folder {
         margin-top: 0.8rem;
         text-align: center;
-    }
+        font-weight: 600;
+        font-style: normal;
+    }*/
 }
 
 main {
